@@ -1,4 +1,4 @@
-# W3Schools_Clone
+# Resume Generator
 > https://alifiyakapasi07.github.io/W3Schools_Clone/
 
 
