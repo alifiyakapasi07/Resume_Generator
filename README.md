@@ -1,5 +1,5 @@
 # Resume Generator
-> https://alifiyakapasi07.github.io/W3Schools_Clone/
+> https://alifiyakapasi07.github.io/Resume_Generator/
 
 
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/alifiyakapasi07/Resume_Generator)
